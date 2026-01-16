@@ -2,7 +2,7 @@ import gradio as gr
 from transformers import pipeline
 
 # Replace with your actual model path on Hugging Face Hub
-MODEL_ID = "YOUR_USERNAME/phi2-oasst-grpo"
+MODEL_ID = "jayantgurushrivastava/phi2-oasst-grpo"
 
 try:
     pipe = pipeline(
