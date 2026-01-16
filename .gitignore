@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+outputs/
+processed_oasst/
+wandb/
+*.zip
+.DS_Store
+venv/
+.env
